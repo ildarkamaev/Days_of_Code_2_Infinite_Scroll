@@ -20,5 +20,5 @@ Based on [Steve Griffiths video](https://www.youtube.com/watch?v=1EeVzn02grw&t=6
 - How Intersection Observer works exactly and what it actually is
 
 ## How can it be improved
-- Better UI
+- Better UI (loading animation)
 - Make it fetch images from other sources (Unsplash API maybe?)
